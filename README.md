@@ -1,2 +1,3 @@
-# rust_learning_notes
+# Rust Learning Notes
+
 Notes taken while learning Rust
